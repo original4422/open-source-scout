@@ -1,0 +1,7 @@
+interface:
+  display_name: "Open Source Scout"
+  short_description: "开发前调研开源方案，验证重点候选，比较复用与自行实现成本并交付改造计划"
+  default_prompt: "使用 $open-source-scout，根据我的开发需求调研现成方案，验证重点候选，并给出推荐与改造计划。"
+
+policy:
+  allow_implicit_invocation: true
